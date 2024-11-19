@@ -1,6 +1,4 @@
-div > ul > li {
-    color: #ff0000;
-}
+
 a[href^="https"] {  
     color: red;  
 }
