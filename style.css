@@ -4,3 +4,6 @@ div > ul > li {
 a[href^="https"] {  
     color: red;  
 }
+ul + p {  
+    font-size: 24px; /* Задаємо розмір шрифта 24px */  
+  }
